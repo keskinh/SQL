@@ -6,6 +6,8 @@
 
 
 
+
+
 Cevap 1 ) select distinct replacement_cost from film;
 
 Cevap 2 ) select count( distinct replacement_cost) from film;
