@@ -26,7 +26,9 @@ except
 (select first_name from customer order by first_name)
 
 
-Cevap 4 ) //tekrar edenler için//
+Cevap 4 ) 
+//tekrar edenler için//
+
 (select first_name from actor order by firs_name)
 union all
 (select first_name from customer order by first_name)
